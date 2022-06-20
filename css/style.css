@@ -1,0 +1,7 @@
+
+@media screen and (min-width:320px) {
+.exemplo h1{
+color: blueviolet;
+text-align: center;	
+}
+}
